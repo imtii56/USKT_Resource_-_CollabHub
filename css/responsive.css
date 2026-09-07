@@ -1,0 +1,18 @@
+@media (min-width: 130px) and (max-width: 1400px) {
+  .hero h1 {
+  font-size: 48px;
+  line-height: 1.2;
+  margin-bottom:10px;
+}
+
+.hero p {
+  max-width: 600px;
+ 
+  color: #4b5563;
+  font-size: 16px;
+  padding-top: 20px;
+  padding-bottom: 70px;
+}
+
+
+}
